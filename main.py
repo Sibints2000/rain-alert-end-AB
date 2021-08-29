@@ -42,3 +42,4 @@ if will_rain:
         to='+91 77602 79160'
     )
     print(message.status)
+
